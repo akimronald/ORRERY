@@ -1153,7 +1153,7 @@ h1 {
   width: 100%;
   font-weight: 600;
   font-size: 14px;
-  text-align: center;
+  text-align: left;
   color: rgba(255, 255, 255, 0.8); }
 
 #navbar, #controls, #data {
